@@ -6,14 +6,14 @@ A southpaw battlestation in stainless steel with a novel encoder solution.
 Two more pics at the bottom, didn't have time to snap more before delivery.
 
 ## Introduction
-In this guide I will, to the best of my ability, explain my entire build process in detail from start to finish. I'll be documenting this process for you *and* me, so bear with me when I start explaining things that are irrelevant to most people. While the parts used are available here for anyone to use, you would know after reading this entire "guide" that the sensible thing to do is to learn from my process and design a keyboard that is your own. 
+In this walkthrough I will, to the best of my ability, explain my entire build process in detail from start to finish. I'll be documenting this process for you *and* me, so bear with me when I start explaining things that are irrelevant to most people. While the parts used are available here for anyone to use, you would know after reading this entire "guide" that the sensible thing to do is to learn from my process and design a keyboard that is your own. 
 
 In the unlikely case that anyone wants to build a replica, there are several improvements that should be implemented beforehand. More on those [here](#improvements-and-issues).
 
 Let me know if I can elaborate on something! Shoot me message on [Reddit](https://www.reddit.com/user/sincerelyredcape) or on Discord where I go by sincerelyredcape#2148.
 
 ## Case design
-I only had one real requirement for this build, a good knob. A second requirement I set for myself was for it to be comically heavy. However, milled steel doesnt come cheap and I wasnt looking for spending an entire months salary on a keyboard (just yet). I recently finished building a motorcycle so while the TIG-welder was still hot I thought that laser cut metal plates would reduce the materials cost significantly if I could weld something together.
+I only had one real requirement for this build, a good knob. A second requirement I set for myself was for it to be comically heavy. However, milled steel doesn't come cheap and I wasnt looking for spending an entire months salary on a keyboard (just yet). I recently finished building a motorcycle so while the TIG-welder was still hot I thought that laser cut metal plates would reduce the materials cost significantly if I could weld something together.
 
 ![alt text](images/CaseDesign_Overview.png "Title")
 
@@ -68,8 +68,6 @@ It's got a Teensy++ 2.0 to handle the big matrix that consist of a whole bunch o
 - Design a proper PCB.
 - Make keys on the case parts for self-aligment. Like [this](https://solid-blog.pl/wp-content/uploads/2021/07/1.07.2021-3.jpg)
 
+# Pictures
 ![alt text](images/Monolith_2.JPG "Title")
 ![alt text](images/Monolith_3.JPG "Title")
-
-# Contact
-I'm on reddit and discord as sincerelyredcape aswell, shoot me a message if you have any questions.
