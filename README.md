@@ -8,9 +8,9 @@ Two more pics at the bottom, didn't have time to snap more before delivery.
 ## Introduction
 In this guide I will, to the best of my ability, explain my entire build process in detail from start to finish. I'll be documenting this process for you *and* me, so bear with me when I start explaining things that are irrelevant to most people. While the parts used are available here for anyone to use, you would know after reading this entire "guide" that the sensible thing to do is to learn from my process and design a keyboard that is your own. 
 
-In the unlikely case that anyone wants to build a replica, there are several improvements that should be implemented beforehand. More on those [here](#abcd).
+In the unlikely case that anyone wants to build a replica, there are several improvements that should be implemented beforehand. More on those [here](#improvements-and-issues).
 
-Let me know if I can elaborate on something!
+Let me know if I can elaborate on something! Shoot me message on [Reddit](https://www.reddit.com/user/sincerelyredcape) or on Discord where I go by sincerelyredcape#2148.
 
 ## Case design
 I only had one real requirement for this build, a good knob. A second requirement I set for myself was for it to be comically heavy. However, milled steel doesnt come cheap and I wasnt looking for spending an entire months salary on a keyboard (just yet). I recently finished building a motorcycle so while the TIG-welder was still hot I thought that laser cut metal plates would reduce the materials cost significantly if I could weld something together.
@@ -61,7 +61,6 @@ Since I have no experience designing PCB's I opted for the handwired route, in h
 
 It's got a Teensy++ 2.0 to handle the big matrix that consist of a whole bunch of [Amoeba](https://github.com/mtl/keyboard-pcbs/tree/master/amoeba) PCB's. It also has full backlight, powered by a mosfet and PWM.
 
-<a name="improvements"></a>
 # Improvements and issues
 - Switch plate is too close to the front case wall, my shoulder bolts rubbed against the wall. It worked out, but it was too close for comfort.
 - Knob cutout is very close to the bend for this plate thickness which resulted in some warping of the hole.
